@@ -1,6 +1,6 @@
 {
     "version": "1.5.1",
-    "description": "Local voice dictation for Windows with global hotkey — Whisper STT + Claude text transformation.",
+    "description": "Local voice dictation for Windows with global hotkey — Whisper STT + multi-provider LLM (Anthropic / OpenAI-compatible / Ollama).",
     "homepage": "https://github.com/RTF22/VOCIX",
     "license": "MIT",
     "architecture": {
